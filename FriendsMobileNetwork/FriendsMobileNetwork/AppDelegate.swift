@@ -16,6 +16,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        UIApplication.shared.statusBarStyle = .lightContent
+        
+        let statusBar: UIView = UIApplication.shared.value(forKey: "statusBar") as! UIView
+        if statusBar.responds(to: #selector(setter: UIView.backgroundColor)){//respondsToSelector(Selector("setBackgroundColor:")) {
+            statusBar.backgroundColor = UIColor.colorWithHexString(hex: "487FD4")//init(red: 0.1, green: 0.27, blue: 0.60, alpha: 1.0)487FD4
+        }
         return true
     }
 
