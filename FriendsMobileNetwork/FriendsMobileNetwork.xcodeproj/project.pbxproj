@@ -7,13 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F0753FB1FE2772200B07BF2 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0753FA1FE2772200B07BF2 /* HomeViewController.swift */; };
+		1F33B7AD1FE2BC0A005BE7EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F33B7AC1FE2BC09005BE7EE /* Assets.xcassets */; };
+		1F9970551FE170090074A7A2 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F9970541FE170090074A7A2 /* LoginViewController.swift */; };
+		1F9970661FE178E60074A7A2 /* SFUITextSemibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F99705A1FE178E30074A7A2 /* SFUITextSemibold.otf */; };
+		1F9970671FE178E60074A7A2 /* SFUITextHeavyItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F99705B1FE178E30074A7A2 /* SFUITextHeavyItalic.otf */; };
+		1F9970681FE178E60074A7A2 /* SFUITextMedium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F99705C1FE178E30074A7A2 /* SFUITextMedium.otf */; };
+		1F9970691FE178E60074A7A2 /* SFUITextRegular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F99705D1FE178E30074A7A2 /* SFUITextRegular.otf */; };
+		1F99706A1FE178E60074A7A2 /* SFUITextHeavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F99705E1FE178E40074A7A2 /* SFUITextHeavy.otf */; };
+		1F99706B1FE178E60074A7A2 /* SFUITextLightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F99705F1FE178E40074A7A2 /* SFUITextLightItalic.otf */; };
+		1F99706C1FE178E60074A7A2 /* SFUITextBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F9970601FE178E40074A7A2 /* SFUITextBold.otf */; };
+		1F99706D1FE178E60074A7A2 /* SFUITextSemiboldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F9970611FE178E50074A7A2 /* SFUITextSemiboldItalic.otf */; };
+		1F99706E1FE178E60074A7A2 /* SFUITextRegularItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F9970621FE178E50074A7A2 /* SFUITextRegularItalic.otf */; };
+		1F99706F1FE178E60074A7A2 /* SFUITextBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F9970631FE178E50074A7A2 /* SFUITextBoldItalic.otf */; };
+		1F9970701FE178E60074A7A2 /* SFUITextLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F9970641FE178E50074A7A2 /* SFUITextLight.otf */; };
+		1F9970711FE178E60074A7A2 /* SFUITextMediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F9970651FE178E60074A7A2 /* SFUITextMediumItalic.otf */; };
+		1F99707C1FE179060074A7A2 /* SFUIDisplayThin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F9970731FE179040074A7A2 /* SFUIDisplayThin.otf */; };
+		1F99707D1FE179060074A7A2 /* SFUIDisplaySemibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F9970741FE179040074A7A2 /* SFUIDisplaySemibold.otf */; };
+		1F99707E1FE179060074A7A2 /* SFUIDisplayRegular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F9970751FE179040074A7A2 /* SFUIDisplayRegular.otf */; };
+		1F99707F1FE179060074A7A2 /* SFUIDisplayMedium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F9970761FE179050074A7A2 /* SFUIDisplayMedium.otf */; };
+		1F9970801FE179060074A7A2 /* SFUIDisplayLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F9970771FE179050074A7A2 /* SFUIDisplayLight.otf */; };
+		1F9970811FE179060074A7A2 /* SFUIDisplayHeavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F9970781FE179050074A7A2 /* SFUIDisplayHeavy.otf */; };
+		1F9970821FE179060074A7A2 /* SFUIDisplayBlack.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F9970791FE179060074A7A2 /* SFUIDisplayBlack.otf */; };
+		1F9970841FE179060074A7A2 /* SFUIDisplayUltralight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F99707B1FE179060074A7A2 /* SFUIDisplayUltralight.otf */; };
+		1F9970861FE179240074A7A2 /* SFUIDisplayBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F9970851FE179240074A7A2 /* SFUIDisplayBold.otf */; };
 		84583BFA1FE16E3B00D4D328 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84583BF91FE16E3B00D4D328 /* AppDelegate.swift */; };
-		84583BFC1FE16E3B00D4D328 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84583BFB1FE16E3B00D4D328 /* ViewController.swift */; };
 		84583BFF1FE16E3B00D4D328 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84583BFD1FE16E3B00D4D328 /* Main.storyboard */; };
-		84583C011FE16E3B00D4D328 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84583C001FE16E3B00D4D328 /* Assets.xcassets */; };
 		84583C041FE16E3B00D4D328 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84583C021FE16E3B00D4D328 /* LaunchScreen.storyboard */; };
 		84583C0F1FE16E3C00D4D328 /* FriendsMobileNetworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84583C0E1FE16E3C00D4D328 /* FriendsMobileNetworkTests.swift */; };
 		84583C1A1FE16E3C00D4D328 /* FriendsMobileNetworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84583C191FE16E3C00D4D328 /* FriendsMobileNetworkUITests.swift */; };
+		9BD8CB0E4F40165D60484223 /* Pods_FriendsMobileNetworkUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E1D28E24ED6F4DAA04AA13F /* Pods_FriendsMobileNetworkUITests.framework */; };
+		B24DCEA5ED202D3414BD510E /* Pods_FriendsMobileNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BB41478052547F66501DC6E9 /* Pods_FriendsMobileNetwork.framework */; };
+		FB1608E02A3F70126B5AD414 /* Pods_FriendsMobileNetworkTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB6B52B84413232D02E8D345 /* Pods_FriendsMobileNetworkTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,11 +59,36 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1F0753FA1FE2772200B07BF2 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		1F33B7AC1FE2BC09005BE7EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = FriendsMobileNetwork/Assets.xcassets; sourceTree = SOURCE_ROOT; };
+		1F9970541FE170090074A7A2 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		1F99705A1FE178E30074A7A2 /* SFUITextSemibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUITextSemibold.otf; sourceTree = "<group>"; };
+		1F99705B1FE178E30074A7A2 /* SFUITextHeavyItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUITextHeavyItalic.otf; sourceTree = "<group>"; };
+		1F99705C1FE178E30074A7A2 /* SFUITextMedium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUITextMedium.otf; sourceTree = "<group>"; };
+		1F99705D1FE178E30074A7A2 /* SFUITextRegular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUITextRegular.otf; sourceTree = "<group>"; };
+		1F99705E1FE178E40074A7A2 /* SFUITextHeavy.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUITextHeavy.otf; sourceTree = "<group>"; };
+		1F99705F1FE178E40074A7A2 /* SFUITextLightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUITextLightItalic.otf; sourceTree = "<group>"; };
+		1F9970601FE178E40074A7A2 /* SFUITextBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUITextBold.otf; sourceTree = "<group>"; };
+		1F9970611FE178E50074A7A2 /* SFUITextSemiboldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUITextSemiboldItalic.otf; sourceTree = "<group>"; };
+		1F9970621FE178E50074A7A2 /* SFUITextRegularItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUITextRegularItalic.otf; sourceTree = "<group>"; };
+		1F9970631FE178E50074A7A2 /* SFUITextBoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUITextBoldItalic.otf; sourceTree = "<group>"; };
+		1F9970641FE178E50074A7A2 /* SFUITextLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUITextLight.otf; sourceTree = "<group>"; };
+		1F9970651FE178E60074A7A2 /* SFUITextMediumItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUITextMediumItalic.otf; sourceTree = "<group>"; };
+		1F9970731FE179040074A7A2 /* SFUIDisplayThin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUIDisplayThin.otf; sourceTree = "<group>"; };
+		1F9970741FE179040074A7A2 /* SFUIDisplaySemibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUIDisplaySemibold.otf; sourceTree = "<group>"; };
+		1F9970751FE179040074A7A2 /* SFUIDisplayRegular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUIDisplayRegular.otf; sourceTree = "<group>"; };
+		1F9970761FE179050074A7A2 /* SFUIDisplayMedium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUIDisplayMedium.otf; sourceTree = "<group>"; };
+		1F9970771FE179050074A7A2 /* SFUIDisplayLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUIDisplayLight.otf; sourceTree = "<group>"; };
+		1F9970781FE179050074A7A2 /* SFUIDisplayHeavy.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUIDisplayHeavy.otf; sourceTree = "<group>"; };
+		1F9970791FE179060074A7A2 /* SFUIDisplayBlack.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUIDisplayBlack.otf; sourceTree = "<group>"; };
+		1F99707B1FE179060074A7A2 /* SFUIDisplayUltralight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUIDisplayUltralight.otf; sourceTree = "<group>"; };
+		1F9970851FE179240074A7A2 /* SFUIDisplayBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFUIDisplayBold.otf; sourceTree = "<group>"; };
+		6E1D28E24ED6F4DAA04AA13F /* Pods_FriendsMobileNetworkUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FriendsMobileNetworkUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7ED493AE2BEBDBD2C667F291 /* Pods-FriendsMobileNetworkTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FriendsMobileNetworkTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-FriendsMobileNetworkTests/Pods-FriendsMobileNetworkTests.release.xcconfig"; sourceTree = "<group>"; };
+		807CF1A0CC2B1F156EEFAB26 /* Pods-FriendsMobileNetwork.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FriendsMobileNetwork.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FriendsMobileNetwork/Pods-FriendsMobileNetwork.debug.xcconfig"; sourceTree = "<group>"; };
 		84583BF61FE16E3B00D4D328 /* FriendsMobileNetwork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FriendsMobileNetwork.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84583BF91FE16E3B00D4D328 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		84583BFB1FE16E3B00D4D328 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		84583BFE1FE16E3B00D4D328 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		84583C001FE16E3B00D4D328 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84583C031FE16E3B00D4D328 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84583C051FE16E3B00D4D328 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84583C0A1FE16E3C00D4D328 /* FriendsMobileNetworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FriendsMobileNetworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -47,6 +97,12 @@
 		84583C151FE16E3C00D4D328 /* FriendsMobileNetworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FriendsMobileNetworkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84583C191FE16E3C00D4D328 /* FriendsMobileNetworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsMobileNetworkUITests.swift; sourceTree = "<group>"; };
 		84583C1B1FE16E3C00D4D328 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		857367A9A5D447292A17A0A5 /* Pods-FriendsMobileNetworkUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FriendsMobileNetworkUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-FriendsMobileNetworkUITests/Pods-FriendsMobileNetworkUITests.release.xcconfig"; sourceTree = "<group>"; };
+		979911C8E690DFE4DE8FD155 /* Pods-FriendsMobileNetworkTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FriendsMobileNetworkTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FriendsMobileNetworkTests/Pods-FriendsMobileNetworkTests.debug.xcconfig"; sourceTree = "<group>"; };
+		9986A814098FE06135AFE75E /* Pods-FriendsMobileNetworkUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FriendsMobileNetworkUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FriendsMobileNetworkUITests/Pods-FriendsMobileNetworkUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		BB41478052547F66501DC6E9 /* Pods_FriendsMobileNetwork.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FriendsMobileNetwork.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0F8D5EA09AE3B21B0FFC884 /* Pods-FriendsMobileNetwork.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FriendsMobileNetwork.release.xcconfig"; path = "Pods/Target Support Files/Pods-FriendsMobileNetwork/Pods-FriendsMobileNetwork.release.xcconfig"; sourceTree = "<group>"; };
+		DB6B52B84413232D02E8D345 /* Pods_FriendsMobileNetworkTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FriendsMobileNetworkTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +110,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B24DCEA5ED202D3414BD510E /* Pods_FriendsMobileNetwork.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +118,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB1608E02A3F70126B5AD414 /* Pods_FriendsMobileNetworkTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,12 +126,88 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BD8CB0E4F40165D60484223 /* Pods_FriendsMobileNetworkUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1F9970561FE170160074A7A2 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				1F9970541FE170090074A7A2 /* LoginViewController.swift */,
+				1F0753FA1FE2772200B07BF2 /* HomeViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		1F9970571FE1785E0074A7A2 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1F33B7AC1FE2BC09005BE7EE /* Assets.xcassets */,
+				1F9970581FE178680074A7A2 /* Font */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		1F9970581FE178680074A7A2 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				1F9970721FE178EB0074A7A2 /* SFUIDisplay */,
+				1F9970591FE178730074A7A2 /* SFUIText */,
+			);
+			path = Font;
+			sourceTree = "<group>";
+		};
+		1F9970591FE178730074A7A2 /* SFUIText */ = {
+			isa = PBXGroup;
+			children = (
+				1F9970601FE178E40074A7A2 /* SFUITextBold.otf */,
+				1F9970631FE178E50074A7A2 /* SFUITextBoldItalic.otf */,
+				1F99705E1FE178E40074A7A2 /* SFUITextHeavy.otf */,
+				1F99705B1FE178E30074A7A2 /* SFUITextHeavyItalic.otf */,
+				1F9970641FE178E50074A7A2 /* SFUITextLight.otf */,
+				1F99705F1FE178E40074A7A2 /* SFUITextLightItalic.otf */,
+				1F99705C1FE178E30074A7A2 /* SFUITextMedium.otf */,
+				1F9970651FE178E60074A7A2 /* SFUITextMediumItalic.otf */,
+				1F99705D1FE178E30074A7A2 /* SFUITextRegular.otf */,
+				1F9970621FE178E50074A7A2 /* SFUITextRegularItalic.otf */,
+				1F99705A1FE178E30074A7A2 /* SFUITextSemibold.otf */,
+				1F9970611FE178E50074A7A2 /* SFUITextSemiboldItalic.otf */,
+			);
+			path = SFUIText;
+			sourceTree = "<group>";
+		};
+		1F9970721FE178EB0074A7A2 /* SFUIDisplay */ = {
+			isa = PBXGroup;
+			children = (
+				1F9970791FE179060074A7A2 /* SFUIDisplayBlack.otf */,
+				1F9970851FE179240074A7A2 /* SFUIDisplayBold.otf */,
+				1F9970781FE179050074A7A2 /* SFUIDisplayHeavy.otf */,
+				1F9970771FE179050074A7A2 /* SFUIDisplayLight.otf */,
+				1F9970761FE179050074A7A2 /* SFUIDisplayMedium.otf */,
+				1F9970751FE179040074A7A2 /* SFUIDisplayRegular.otf */,
+				1F9970741FE179040074A7A2 /* SFUIDisplaySemibold.otf */,
+				1F9970731FE179040074A7A2 /* SFUIDisplayThin.otf */,
+				1F99707B1FE179060074A7A2 /* SFUIDisplayUltralight.otf */,
+			);
+			path = SFUIDisplay;
+			sourceTree = "<group>";
+		};
+		72C24A39C4E4F4D68769FD1E /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				807CF1A0CC2B1F156EEFAB26 /* Pods-FriendsMobileNetwork.debug.xcconfig */,
+				D0F8D5EA09AE3B21B0FFC884 /* Pods-FriendsMobileNetwork.release.xcconfig */,
+				979911C8E690DFE4DE8FD155 /* Pods-FriendsMobileNetworkTests.debug.xcconfig */,
+				7ED493AE2BEBDBD2C667F291 /* Pods-FriendsMobileNetworkTests.release.xcconfig */,
+				9986A814098FE06135AFE75E /* Pods-FriendsMobileNetworkUITests.debug.xcconfig */,
+				857367A9A5D447292A17A0A5 /* Pods-FriendsMobileNetworkUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		84583BED1FE16E3B00D4D328 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +215,8 @@
 				84583C0D1FE16E3C00D4D328 /* FriendsMobileNetworkTests */,
 				84583C181FE16E3C00D4D328 /* FriendsMobileNetworkUITests */,
 				84583BF71FE16E3B00D4D328 /* Products */,
+				72C24A39C4E4F4D68769FD1E /* Pods */,
+				CB90FE8F103D7C913A6B9516 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,10 +233,10 @@
 		84583BF81FE16E3B00D4D328 /* FriendsMobileNetwork */ = {
 			isa = PBXGroup;
 			children = (
+				1F9970571FE1785E0074A7A2 /* Resources */,
+				1F9970561FE170160074A7A2 /* Controllers */,
 				84583BF91FE16E3B00D4D328 /* AppDelegate.swift */,
-				84583BFB1FE16E3B00D4D328 /* ViewController.swift */,
 				84583BFD1FE16E3B00D4D328 /* Main.storyboard */,
-				84583C001FE16E3B00D4D328 /* Assets.xcassets */,
 				84583C021FE16E3B00D4D328 /* LaunchScreen.storyboard */,
 				84583C051FE16E3B00D4D328 /* Info.plist */,
 			);
@@ -125,6 +261,16 @@
 			path = FriendsMobileNetworkUITests;
 			sourceTree = "<group>";
 		};
+		CB90FE8F103D7C913A6B9516 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BB41478052547F66501DC6E9 /* Pods_FriendsMobileNetwork.framework */,
+				DB6B52B84413232D02E8D345 /* Pods_FriendsMobileNetworkTests.framework */,
+				6E1D28E24ED6F4DAA04AA13F /* Pods_FriendsMobileNetworkUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +278,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 84583C1E1FE16E3C00D4D328 /* Build configuration list for PBXNativeTarget "FriendsMobileNetwork" */;
 			buildPhases = (
+				4C1B0EF2FA38BCBCAD309DCD /* [CP] Check Pods Manifest.lock */,
 				84583BF21FE16E3B00D4D328 /* Sources */,
 				84583BF31FE16E3B00D4D328 /* Frameworks */,
 				84583BF41FE16E3B00D4D328 /* Resources */,
+				5C8BDEB5E693D90CBEF02FAB /* [CP] Embed Pods Frameworks */,
+				C298C8D3B31A92A12663CC75 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -149,9 +298,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 84583C211FE16E3C00D4D328 /* Build configuration list for PBXNativeTarget "FriendsMobileNetworkTests" */;
 			buildPhases = (
+				6756BB27D5525D53C5D93A89 /* [CP] Check Pods Manifest.lock */,
 				84583C061FE16E3C00D4D328 /* Sources */,
 				84583C071FE16E3C00D4D328 /* Frameworks */,
 				84583C081FE16E3C00D4D328 /* Resources */,
+				7F5BB6068819302064F9BC98 /* [CP] Embed Pods Frameworks */,
+				2500EAB1ED3660C9EA480A41 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -167,9 +319,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 84583C241FE16E3C00D4D328 /* Build configuration list for PBXNativeTarget "FriendsMobileNetworkUITests" */;
 			buildPhases = (
+				6C4D74CC8DE101774E56A471 /* [CP] Check Pods Manifest.lock */,
 				84583C111FE16E3C00D4D328 /* Sources */,
 				84583C121FE16E3C00D4D328 /* Frameworks */,
 				84583C131FE16E3C00D4D328 /* Resources */,
+				40F5F18C21D901E27098B3C6 /* [CP] Embed Pods Frameworks */,
+				AA526B149A7ABE9D25C1EF45 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -232,9 +387,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F99706E1FE178E60074A7A2 /* SFUITextRegularItalic.otf in Resources */,
+				1F99706C1FE178E60074A7A2 /* SFUITextBold.otf in Resources */,
 				84583C041FE16E3B00D4D328 /* LaunchScreen.storyboard in Resources */,
-				84583C011FE16E3B00D4D328 /* Assets.xcassets in Resources */,
+				1F9970711FE178E60074A7A2 /* SFUITextMediumItalic.otf in Resources */,
+				1F99706A1FE178E60074A7A2 /* SFUITextHeavy.otf in Resources */,
+				1F9970701FE178E60074A7A2 /* SFUITextLight.otf in Resources */,
+				1F9970821FE179060074A7A2 /* SFUIDisplayBlack.otf in Resources */,
+				1F9970861FE179240074A7A2 /* SFUIDisplayBold.otf in Resources */,
+				1F99706F1FE178E60074A7A2 /* SFUITextBoldItalic.otf in Resources */,
+				1F9970681FE178E60074A7A2 /* SFUITextMedium.otf in Resources */,
+				1F99706D1FE178E60074A7A2 /* SFUITextSemiboldItalic.otf in Resources */,
+				1F99707C1FE179060074A7A2 /* SFUIDisplayThin.otf in Resources */,
+				1F9970841FE179060074A7A2 /* SFUIDisplayUltralight.otf in Resources */,
+				1F9970661FE178E60074A7A2 /* SFUITextSemibold.otf in Resources */,
+				1F9970801FE179060074A7A2 /* SFUIDisplayLight.otf in Resources */,
+				1F99706B1FE178E60074A7A2 /* SFUITextLightItalic.otf in Resources */,
+				1F99707D1FE179060074A7A2 /* SFUIDisplaySemibold.otf in Resources */,
+				1F9970691FE178E60074A7A2 /* SFUITextRegular.otf in Resources */,
+				1F9970811FE179060074A7A2 /* SFUIDisplayHeavy.otf in Resources */,
 				84583BFF1FE16E3B00D4D328 /* Main.storyboard in Resources */,
+				1F99707E1FE179060074A7A2 /* SFUIDisplayRegular.otf in Resources */,
+				1F9970671FE178E60074A7A2 /* SFUITextHeavyItalic.otf in Resources */,
+				1F33B7AD1FE2BC0A005BE7EE /* Assets.xcassets in Resources */,
+				1F99707F1FE179060074A7A2 /* SFUIDisplayMedium.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,13 +430,161 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		2500EAB1ED3660C9EA480A41 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FriendsMobileNetworkTests/Pods-FriendsMobileNetworkTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		40F5F18C21D901E27098B3C6 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FriendsMobileNetworkUITests/Pods-FriendsMobileNetworkUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		4C1B0EF2FA38BCBCAD309DCD /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FriendsMobileNetwork-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5C8BDEB5E693D90CBEF02FAB /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FriendsMobileNetwork/Pods-FriendsMobileNetwork-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6756BB27D5525D53C5D93A89 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FriendsMobileNetworkTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6C4D74CC8DE101774E56A471 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FriendsMobileNetworkUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7F5BB6068819302064F9BC98 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FriendsMobileNetworkTests/Pods-FriendsMobileNetworkTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AA526B149A7ABE9D25C1EF45 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FriendsMobileNetworkUITests/Pods-FriendsMobileNetworkUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C298C8D3B31A92A12663CC75 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FriendsMobileNetwork/Pods-FriendsMobileNetwork-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		84583BF21FE16E3B00D4D328 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84583BFC1FE16E3B00D4D328 /* ViewController.swift in Sources */,
+				1F9970551FE170090074A7A2 /* LoginViewController.swift in Sources */,
 				84583BFA1FE16E3B00D4D328 /* AppDelegate.swift in Sources */,
+				1F0753FB1FE2772200B07BF2 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -424,6 +748,7 @@
 		};
 		84583C1F1FE16E3C00D4D328 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 807CF1A0CC2B1F156EEFAB26 /* Pods-FriendsMobileNetwork.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -439,6 +764,7 @@
 		};
 		84583C201FE16E3C00D4D328 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D0F8D5EA09AE3B21B0FFC884 /* Pods-FriendsMobileNetwork.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -454,6 +780,7 @@
 		};
 		84583C221FE16E3C00D4D328 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 979911C8E690DFE4DE8FD155 /* Pods-FriendsMobileNetworkTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -470,6 +797,7 @@
 		};
 		84583C231FE16E3C00D4D328 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7ED493AE2BEBDBD2C667F291 /* Pods-FriendsMobileNetworkTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -486,6 +814,7 @@
 		};
 		84583C251FE16E3C00D4D328 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9986A814098FE06135AFE75E /* Pods-FriendsMobileNetworkUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -501,6 +830,7 @@
 		};
 		84583C261FE16E3C00D4D328 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 857367A9A5D447292A17A0A5 /* Pods-FriendsMobileNetworkUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
